@@ -1,0 +1,104 @@
+.
+.w-100{
+	height: 700px;
+	
+	
+}
+
+.love{
+	width: 70%;
+}
+.bd-example{
+	align-items: center;
+	padding-bottom:50px;
+	
+}
+.display-4{
+	padding-left: 200px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold!important;
+	color: white;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.lead{
+	text-align: center;
+	font-weight: 5rem;
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.jumbotron{
+ background-image: url(https://www.pixel4k.com/wp-content/uploads/2018/09/erik-killmonger-black-panther-art-4k_1536522769.jpg);
+ background-size: cover;
+ max-height: 500px;
+ padding-bottom:500px;
+
+}
+.my-4 {
+	text-align: center!important;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	
+}
+
+p{
+	text-align: center;
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.btn{
+	text-align: center;
+}
+a{
+	align-items: center!important;
+	justify-content: center!important;
+	align-self: center;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	text-align: center;
+}
+.center12{
+	text-align: center!important;
+}
+body{
+	background-color: black!important;
+}
+.fas{
+	text-align: center;
+	align-content: center;
+	size: 300px;
+	color:green;
+	padding-left:300px;
+	width: 300px;
+	font-size:5rem;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+i+h1{
+	display: inline-block;
+}
+.fab1{
+	padding-right: 200px;
+}
+.card-img-top1121{
+	height: 275px;
+}
+.               
+.card-deck .card {
+	border-color: black;
+}
+.card{
+	background-color: transparent!important;
+	border-color: black!important;
+}  
+.card-title{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+
+} 
+.card-text{
+	font-family: 'Roboto Mono', monospace;
+}            
